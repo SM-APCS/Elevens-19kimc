@@ -1,3 +1,9 @@
+package elevens;
+
+/**
+ * @class AP CSA
+ * @author YOUR NAME HERE
+ */
 /**
  * Card.java
  *
